@@ -1,0 +1,8 @@
+wc = Word Count
+Does what it says on the tin. Counts words in a file, whose name it takes as an argument. 
+Unless you don't want it to count words...
+Options:
+-l = line count
+-w = word count
+-c = byte count
+-m = character count
