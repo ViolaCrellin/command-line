@@ -1,4 +1,0 @@
-mv is to 'MoVe' a file. 
-It is like cp, copy, except deletes the original file from where it was originally. 
-
-Syntax = mv FileToMove PlaceToMoveTo
