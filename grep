@@ -1,0 +1,4 @@
+grep = Globally search a Regular Expression and Print
+grep is used to search within files for a specified pattern of characters. The pattern of characters often uses the wildcard characters * and ?
+Syntax:
+grep SearchPattern file_you_are_searching
